@@ -5,9 +5,14 @@
 
 ## 雲端資料庫建立
 1. 註冊IBM雲端平台帳號
+
 2. 建立Cloudant NoSQL BD
 ![alt text](https://github.com/jackjeanab/Node-RED/blob/master/IBM_CloudDB_1.png?raw=true "Cloudant NoSQL BD")
-3. 建立temp_humidity資料庫<br>
+
+3. 建立temp_humidity資料庫
 ![alt text](https://github.com/jackjeanab/Node-RED/blob/master/IBM_CloudDB_2.png?raw=true "進入Cloudant NoSQL BD")
+
 4. 完成temp_humidity資料庫<br>
 ![alt text](https://github.com/jackjeanab/Node-RED/blob/master/IBM_CloudDB_3.png?raw=true "Cloudant Dashboard")
+
+## 雲端資料庫建立
