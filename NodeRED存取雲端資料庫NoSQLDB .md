@@ -17,7 +17,7 @@
 
 ## Node-RED程式
 以HTTP POST方式新增資料到資料庫<br>
-Node-RED程式:
+Node-RED code:
 ```JSON
 [
     {
