@@ -7,3 +7,4 @@
 1. 註冊IBM雲端平台帳號
 2. 建立Cloudant NoSQL BD
 ![alt text](https://github.com/jackjeanab/Node-RED/blob/master/IBM_CloudDB_1.png?raw=true "Cloudant NoSQL BD")
+3. 
