@@ -42,3 +42,9 @@ Node-RED code:
     }
 ]
 ```
+執行結果:<br>
+Node-RED收到資料庫回應的成功訊息<br>
+![alt text](https://github.com/jackjeanab/Node-RED/blob/master/Node-RED_response_msg.png?raw=true "資料庫回應的成功訊息")
+
+資料庫新增的資料<br>
+![alt text](https://github.com/jackjeanab/Node-RED/blob/master/DB_receive_record.png?raw=true "資料庫新增的資料")
