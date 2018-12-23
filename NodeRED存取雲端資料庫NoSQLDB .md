@@ -48,3 +48,10 @@ Node-RED收到資料庫回應的成功訊息<br>
 
 資料庫新增的資料<br>
 ![alt text](https://github.com/jackjeanab/Node-RED/blob/master/DB_receive_record.png?raw=true "資料庫新增的資料")
+
+## 新增圖形顯示
+再傳送三筆溫溼度資料<br>
+![alt text](https://github.com/jackjeanab/Node-RED/blob/master/DB_receive_4record.png?raw=true "新增三筆溫溼度資料")
+
+XY折線顯示<br>
+![alt text](https://github.com/jackjeanab/Node-RED/blob/master/show_in_UI.png?raw=true "圖形顯示")
