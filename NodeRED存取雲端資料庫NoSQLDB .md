@@ -15,4 +15,30 @@
 4. 完成temp_humidity資料庫<br>
 ![alt text](https://github.com/jackjeanab/Node-RED/blob/master/IBM_CloudDB_3.png?raw=true "Cloudant Dashboard")
 
-## 雲端資料庫建立
+## Node-RED程式
+以HTTP POST方式新增資料到資料庫<br>
+Node-RED程式:
+```JSON
+[
+    {
+        "id": "8a8a090e.fb44e8",
+        "type": "inject",
+        "z": "86bea44.a06ec58",
+        "name": "",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "x": 136,
+        "y": 119,
+        "wires": [
+            [
+                "5e7e8f99.78f0a"
+            ]
+        ]
+    }
+]
+```
